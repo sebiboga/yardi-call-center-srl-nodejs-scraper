@@ -1,16 +1,14 @@
 # AGENTS.md — Rules for AI agents
 
 ## Project
-EPAM scraper for peviitor.ro (Node.js, ESM, Jest)
+YARDI scraper for peviitor.ro (Node.js, ESM, Jest)
 
-## 📐 This Repo Is a Template
-This repo is the **reference implementation** for all Node.js scrapers in the peviitor.ro ecosystem. Other scrapers are derived from it.
+## 🌱 This Repo Is a Derived Scraper
+This repo is a **derived scraper** — created from the EPAM template at sebiboga/epam-systems-international-srl-nodejs-scraper.
 
-**🤖 If you've been asked to CREATE or RECREATE a derived scraper, read [AI-DERIVATION-GUIDE.md](AI-DERIVATION-GUIDE.md) first.** That file is the consolidated playbook covering every step + all known pitfalls from past derivations.
-
-When making changes to this template:
+When making changes:
 - **All company-specific identity lives in `config/company.json`** (CIF, brand, legalName, URLs, API params). Read from `config/company.js` in Node code, or via `jq` in workflows. Never hardcode in source files.
-- **Only the API parsing logic in `index.js`** (`fetchJobsPage`, `parseApiJobs`) is EPAM-specific. The output shape (`mapToJobModel`, `transformJobsForSOLR`) must stay uniform across derived scrapers.
+- **Only the API parsing logic in `index.js`** (`fetchAllJobs`, `parseBreezyJobs`) is company-specific. The output shape (`mapToJobModel`, `transformJobsForSOLR`) must stay uniform across the ecosystem.
 - **If you add a new file, update [CONTRIBUTING.md](CONTRIBUTING.md)** — the derivation checklist must stay accurate.
 
 ## Critical Rules
@@ -21,7 +19,7 @@ When polling a workflow run with `until [ "$(gh run view ID --json status -q .st
 
 **Always specify the repo explicitly:**
 ```bash
-gh run view <RUN_ID> --repo sebiboga/<derived-repo>-nodejs-scraper --json status -q .status
+gh run view <RUN_ID> --repo sebiboga/yardi-call-center-srl-nodejs-scraper --json status -q .status
 ```
 
 Before starting any `gh run watch` or polling loop in the background, sanity-check:
@@ -58,7 +56,7 @@ npm run test:unit
 # Integration tests (ANAF public API, SOLR conditional)
 npm run test:integration
 
-# E2E tests (real EPAM API, SOLR conditional)
+# E2E tests (real Breezy API, SOLR conditional)
 npm run test:e2e
 
 # Consistency tests (GitHub repo config — needs GITHUB_REPOSITORY + GITHUB_TOKEN)
@@ -84,7 +82,7 @@ npm run test:consistency
 - `company.js` — company validation (ANAF + Peviitor + SOLR); root `company.json` is a 7-day ANAF cache committed to repo, with stale fallback
 - `solr.js` — SOLR operations
 - `validate-jobs.js` — manual deep validator (content-aware); thin wrapper over src/job-validator.js
-- `tests/validate-epam-jobs.js` — CI fast validator (HEAD only); thin wrapper over src/job-validator.js + solr.js
+- `tests/validate-yardi-jobs.js` — CI fast validator (HEAD only); thin wrapper over src/job-validator.js + solr.js
 - `index.js` — main scraper orchestrator
 
 ### 8. Caching Behavior

@@ -1,82 +1,82 @@
 {
-  "validatedAt": "2026-04-14T09:42:51.290Z",
+  "validatedAt": "2026-06-21T07:28:57.331Z",
   "source": "ANAF",
-  "brand": "EPAM",
+  "brand": "Yardi",
   "anaf": {
-    "cui": 33159615,
-    "name": "EPAM SYSTEMS INTERNATIONAL SRL",
-    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD IANCU DE HUNEDOARA, NR.48, ET.9",
-    "registrationNumber": "J2014005735405",
-    "phone": "",
+    "cui": 32509291,
     "fax": "",
-    "postalCode": "11745",
-    "caenCode": "6220",
     "iban": "",
-    "registrationState": "TRANSFER(SOSIRE) din data 20.04.2022",
-    "registrationDate": "2014-05-14",
-    "fiscalAuthority": "Direcţia Generală a Finanţelor Publice Municipiul Bucureşti",
-    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT STRAIN",
-    "organizationForm": "PERSOANA JURIDICA",
-    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
-    "vatRegistered": true,
+    "name": "YARDI CALL CENTER SRL",
+    "phone": "",
+    "address": "21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj",
+    "caenCode": "8220",
+    "inactive": false,
+    "splitVat": false,
+    "legalForm": "SRL",
+    "postalCode": "400604",
     "vatPeriods": [
       {
-        "start": "2020-07-24",
         "end": null,
-        "yearStart": "",
-        "message": ""
+        "start": "2014-02-01",
+        "message": "",
+        "yearStart": ""
       }
     ],
     "cashBasisVat": false,
-    "cashBasisVatStart": null,
-    "cashBasisVatEnd": null,
-    "inactive": false,
-    "inactiveSince": "2018-12-27",
-    "reactivatedSince": "2020-05-13",
-    "splitVat": false,
-    "eFacturaRegistered": false,
-    "headquartersAddress": {
-      "street": "Bld. Iancu de Hunedoara",
-      "number": "48",
-      "locality": "Sector 1 Mun. Bucureşti",
-      "county": "MUNICIPIUL BUCUREŞTI",
-      "country": "",
-      "postalCode": "11745"
-    },
     "fiscalAddress": {
-      "street": "",
-      "number": "",
-      "locality": "",
       "county": "",
+      "number": "",
+      "street": "",
       "country": "",
+      "locality": "",
       "postalCode": ""
+    },
+    "inactiveSince": null,
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT STRAIN",
+    "vatRegistered": true,
+    "cashBasisVatEnd": null,
+    "fiscalAuthority": "Administraţia Fiscală pentru Contribuabili Mijlocii - Cluj",
+    "organizationForm": "PERSOANA JURIDICA",
+    "reactivatedSince": null,
+    "registrationDate": "25/11/2013",
+    "cashBasisVatStart": null,
+    "registrationState": "INREGISTRAT din data 25.11.2013",
+    "eFacturaRegistered": false,
+    "registrationNumber": "J2013003453128",
+    "headquartersAddress": {
+      "street": "21 DECEMBRIE 1989",
+      "number": "77",
+      "locality": "Municipiul Cluj-Napoca",
+      "county": "Cluj",
+      "country": "România",
+      "postalCode": "400604"
     },
     "administrators": [
       {
-        "name": "JASON PETERSON",
-        "role": "administrator"
+        "name": "BRIER ARNOLD EVAN",
+        "role": "administrator",
+        "personId": 1351230
       }
     ],
     "authorizedCaenCodes": [
-      "6210",
-      "6220",
-      "6290",
-      "7020",
-      "8559"
+      "8220"
     ],
     "onrcStatus": 1048,
-    "onrcStatusLabel": "Funcțiune"
+    "onrcStatusLabel": "Funcțiune",
+    "vatCheckedAt": "2026-06-08T12:36:02.513Z",
+    "vatStatus": "stale",
+    "datoriiAnaf": null
   },
   "peviitor": null,
   "summary": {
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
-    "cif": "33159615",
+    "company": "YARDI CALL CENTER SRL",
+    "cif": "32509291",
     "active": true,
-    "inactiveSince": "2018-12-27",
-    "reactivatedSince": "2020-05-13",
-    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 1, BLD IANCU DE HUNEDOARA, NR.48, ET.9",
-    "registrationNumber": "J2014005735405",
-    "caenCode": "6220",
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "address": "21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj",
+    "registrationNumber": "J2013003453128",
+    "caenCode": "8220",
     "vatRegistered": true,
     "eFacturaRegistered": false
   }
