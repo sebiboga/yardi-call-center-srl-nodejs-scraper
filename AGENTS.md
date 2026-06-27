@@ -4,7 +4,7 @@
 YARDI scraper for peviitor.ro (Node.js, ESM, Jest)
 
 ## 🌱 This Repo Is a Derived Scraper
-This repo is a **derived scraper** — created from the EPAM template at sebiboga/epam-systems-international-srl-nodejs-scraper.
+This repo is a **derived scraper** — created from the template from EPAM scraper at sebiboga/epam-systems-international-srl-nodejs-scraper.
 
 When making changes:
 - **All company-specific identity lives in `config/company.json`** (CIF, brand, legalName, URLs, API params). Read from `config/company.js` in Node code, or via `jq` in workflows. Never hardcode in source files.

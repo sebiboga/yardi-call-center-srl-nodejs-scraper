@@ -4,9 +4,9 @@ Thank you for your interest in contributing!
 
 ## 🌱 This Repo Is a Derived Scraper
 
-This is a **derived scraper** — created from the EPAM reference template at `sebiboga/epam-systems-international-srl-nodejs-scraper`. It follows the same structure, workflows, and testing layers as all scrapers in the peviitor.ro ecosystem.
+This is a **derived scraper** — created from the YARDI template at `sebiboga/epam-systems-international-srl-nodejs-scraper`. It follows the same structure, workflows, and testing layers as all scrapers in the peviitor.ro ecosystem.
 
-To create a new derived scraper for another company, start from the EPAM template repo and follow the derivation checklist there.
+To create a new derived scraper for another company, start from the YARDI template repo and follow the derivation checklist there.
 
 ## Code Style
 

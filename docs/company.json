@@ -1,11 +1,11 @@
 {
-  "cif": "33159615",
-  "legalName": "EPAM SYSTEMS INTERNATIONAL SRL",
-  "brand": "EPAM",
-  "website": "https://www.epam.com",
-  "careerUrl": "https://careers.epam.com",
-  "apiBase": "https://careers.epam.com",
+  "cif": "32509291",
+  "legalName": "YARDI CALL CENTER SRL",
+  "brand": "YARDI",
+  "website": "https://yardiromania.ro",
+  "careerUrl": "https://yardiromania.breezy.hr",
+  "apiBase": "https://yardiromania.breezy.hr",
   "apiCountryId": "8150000000000001155",
-  "defaultLocation": "București",
-  "scraperFile": "https://raw.githubusercontent.com/sebiboga/epam-systems-international-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "defaultLocation": "Cluj-Napoca",
+  "scraperFile": "https://raw.githubusercontent.com/sebiboga/yardi-call-center-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
 }
