@@ -10,19 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-05 |
+| Last Scraped | 2026-07-06 |
 
-## Current Job Listings (10)
+## Current Job Listings (9)
 
-_Generated: 2026-07-05T08:46:00.563Z_
-
-### Application Security Engineer
-
-- **URL:** [https://yardiromania.breezy.hr/p/1ecbfac7ca7601-application-security-engineer](https://yardiromania.breezy.hr/p/1ecbfac7ca7601-application-security-engineer)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** cloud services
-- **Status:** scraped
+_Generated: 2026-07-06T10:05:10.073Z_
 
 ### Associate Researcher (Yardi Matrix)
 
