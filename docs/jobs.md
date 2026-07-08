@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-07 |
+| Last Scraped | 2026-07-08 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-07-07T09:31:23.981Z_
+_Generated: 2026-07-08T08:15:33.674Z_
 
 ### Associate Researcher (Yardi Matrix)
 
