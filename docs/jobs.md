@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-08 |
+| Last Scraped | 2026-07-09 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-07-08T08:15:33.674Z_
+_Generated: 2026-07-09T09:28:24.918Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -72,9 +72,9 @@ _Generated: 2026-07-08T08:15:33.674Z_
 - **Tags:** client support and consultancy
 - **Status:** scraped
 
-### Senior Online Marketing Specialist (Social Media & Community Manager)
+### Senior Online Marketing Specialist (Social Media Management)
 
-- **URL:** [https://yardiromania.breezy.hr/p/293203ec14f401-senior-online-marketing-specialist-social-media-community-manager](https://yardiromania.breezy.hr/p/293203ec14f401-senior-online-marketing-specialist-social-media-community-manager)
+- **URL:** [https://yardiromania.breezy.hr/p/293203ec14f401-senior-online-marketing-specialist-social-media-management](https://yardiromania.breezy.hr/p/293203ec14f401-senior-online-marketing-specialist-social-media-management)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
