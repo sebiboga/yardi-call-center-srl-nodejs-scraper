@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-10 |
+| Last Scraped | 2026-07-11 |
 
-## Current Job Listings (11)
+## Current Job Listings (12)
 
-_Generated: 2026-07-10T09:24:44.108Z_
+_Generated: 2026-07-11T07:45:42.691Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -43,6 +43,14 @@ _Generated: 2026-07-10T09:24:44.108Z_
 ### Marketing Analyst II - RentCafe
 
 - **URL:** [https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-rentcafe](https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-rentcafe)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** marketing
+- **Status:** scraped
+
+### Marketing Analyst: Content & Market Intelligence
+
+- **URL:** [https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-content-market-intelligence](https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-content-market-intelligence)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
