@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-13 |
+| Last Scraped | 2026-07-14 |
 
-## Current Job Listings (12)
+## Current Job Listings (11)
 
-_Generated: 2026-07-13T08:57:17.939Z_
+_Generated: 2026-07-14T07:52:50.765Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -48,25 +48,17 @@ _Generated: 2026-07-13T08:57:17.939Z_
 - **Tags:** marketing
 - **Status:** scraped
 
-### Marketing Analyst: Content & Market Intelligence
+### Marketing Analyst II - Content & Market Intelligence
 
-- **URL:** [https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-content-market-intelligence](https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-content-market-intelligence)
+- **URL:** [https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-ii-content-market-intelligence](https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-ii-content-market-intelligence)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
 - **Status:** scraped
 
-### PPC Specialist II - Social Media Advertising
+### PPC Specialist II - Reach by RentCafe
 
-- **URL:** [https://yardiromania.breezy.hr/p/fa5afacf15c501-ppc-specialist-ii-social-media-advertising](https://yardiromania.breezy.hr/p/fa5afacf15c501-ppc-specialist-ii-social-media-advertising)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** marketing
-- **Status:** scraped
-
-### Paid Media Specialist
-
-- **URL:** [https://yardiromania.breezy.hr/p/5fb2c5d5439301-paid-media-specialist](https://yardiromania.breezy.hr/p/5fb2c5d5439301-paid-media-specialist)
+- **URL:** [https://yardiromania.breezy.hr/p/5fb2c5d5439301-ppc-specialist-ii-reach-by-rentcafe](https://yardiromania.breezy.hr/p/5fb2c5d5439301-ppc-specialist-ii-reach-by-rentcafe)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
