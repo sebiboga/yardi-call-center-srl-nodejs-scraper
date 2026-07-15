@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-14 |
+| Last Scraped | 2026-07-15 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-07-14T07:52:50.765Z_
+_Generated: 2026-07-15T07:56:56.780Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -56,7 +56,7 @@ _Generated: 2026-07-14T07:52:50.765Z_
 - **Tags:** marketing
 - **Status:** scraped
 
-### PPC Specialist II - Reach by RentCafe
+### PPC Specialist II - REACH by RentCafe
 
 - **URL:** [https://yardiromania.breezy.hr/p/5fb2c5d5439301-ppc-specialist-ii-reach-by-rentcafe](https://yardiromania.breezy.hr/p/5fb2c5d5439301-ppc-specialist-ii-reach-by-rentcafe)
 - **Work Mode:** on-site
