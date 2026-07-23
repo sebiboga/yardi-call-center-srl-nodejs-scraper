@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-22 |
+| Last Scraped | 2026-07-23 |
 
-## Current Job Listings (12)
+## Current Job Listings (10)
 
-_Generated: 2026-07-22T08:15:33.409Z_
+_Generated: 2026-07-23T08:20:39.293Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -30,14 +30,6 @@ _Generated: 2026-07-22T08:15:33.409Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** client support and consultancy
-- **Status:** scraped
-
-### Consumer Relations Representative
-
-- **URL:** [https://yardiromania.breezy.hr/p/050d948c062d01-consumer-relations-representative](https://yardiromania.breezy.hr/p/050d948c062d01-consumer-relations-representative)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** resident screening
 - **Status:** scraped
 
 ### Digital Marketing Internship
@@ -70,14 +62,6 @@ _Generated: 2026-07-22T08:15:33.409Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
-- **Status:** scraped
-
-### Senior Accountant (Hubble)
-
-- **URL:** [https://yardiromania.breezy.hr/p/d69cf887ef3f01-senior-accountant-hubble](https://yardiromania.breezy.hr/p/d69cf887ef3f01-senior-accountant-hubble)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** client support and consultancy
 - **Status:** scraped
 
 ### Senior Online Marketing Specialist (Social Media Management)
