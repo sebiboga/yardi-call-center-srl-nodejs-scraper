@@ -10,11 +10,11 @@
 | Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-23 |
+| Last Scraped | 2026-07-24 |
 
-## Current Job Listings (10)
+## Current Job Listings (9)
 
-_Generated: 2026-07-23T08:20:39.293Z_
+_Generated: 2026-07-24T08:14:46.305Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -86,12 +86,4 @@ _Generated: 2026-07-23T08:20:39.293Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** programming
-- **Status:** scraped
-
-### UX/UI Designer II
-
-- **URL:** [https://yardiromania.breezy.hr/p/5b2f3c1491bc01-ux-ui-designer-ii](https://yardiromania.breezy.hr/p/5b2f3c1491bc01-ux-ui-designer-ii)
-- **Work Mode:** remote
-- **Location:** Cluj-Napoca
-- **Tags:** marketing
 - **Status:** scraped
